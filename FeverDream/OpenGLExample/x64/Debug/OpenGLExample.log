@@ -1,0 +1,41 @@
+﻿  Main.cpp
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(54,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(95,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(96,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(100,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(101,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(143,27): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(143,19): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(143,12): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(150,27): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(150,19): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(150,12): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(167,21): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(167,18): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(167,15): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(194,21): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(194,18): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(194,15): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(217,21): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(217,18): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(217,15): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(219,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(233,21): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(233,18): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(233,15): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(235,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(247,21): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(247,18): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(247,15): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(320,40): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(320,19): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\jhans\source\repos\OpenGLExample\OpenGLExample\Main.cpp(357,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OpenGLExample.vcxproj -> C:\Users\jhans\source\repos\OpenGLExample\x64\Debug\OpenGLExample.exe
